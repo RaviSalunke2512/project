@@ -60,10 +60,7 @@ class customer:
         txt_add=Entry(Detail_F,font=('times new rommon',18,'bold'),bd=3,relief='flat' )
         txt_add.grid(row=9,column=1)
         
-        lbl_add=Label(Detail_F,text='Total Payment',font=('times new rommon',18,'bold'))
-        lbl_add.grid(row=10,column=0,padx=20,pady=10)
-        txt_add=Entry(Detail_F,font=('times new rommon',18,'bold'),bd=3,relief='flat' )
-        txt_add.grid(row=10,column=1)
+        
         
        
       
